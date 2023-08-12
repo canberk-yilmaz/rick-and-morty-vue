@@ -1,3 +1,7 @@
+# Live Demo
+
+[Click to see the live demo](https://rick-and-morty-vue-xi.vercel.app/)
+
 # Rick and Morty SPA - Vue 3 Project
 
 <h3>This project has 3 pages:</h3>
